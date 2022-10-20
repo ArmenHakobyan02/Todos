@@ -1,0 +1,12 @@
+.App-Footer{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+    padding-left: 18px;
+  }
+  .App-Footer button{
+    padding: 3px 8px;
+  }
